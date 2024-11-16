@@ -3,7 +3,7 @@
 - 👀 I'm interested in Full Stack Development and Python Programming.
 - 🌱 I'm currently learning Advanced React.js, Java and Pyton
 - 💞️ I'm looking to collaborate on Web Development and Python Projects
-- 📫 How to reach me: vigneshpillai123123@gmail.com | +91 9751614394
+- 📫 How to reach me: vigneshpillai123123@gmail.com | www.linkedin.com/in/viramakali
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I built a virtual assistant that can understand both text and voice commands!
 
@@ -71,7 +71,6 @@ And Many More...
 
 ## 🤝 Let's Connect!
 - Email: vigneshpillai123123@gmail.com
-- Phone: +91 9751614394
 - LinkedIn: https://www.linkedin.com/in/viramakali
 - Location: Haralur, Bengaluru
 
