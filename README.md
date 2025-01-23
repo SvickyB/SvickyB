@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @SvickyB
+# 👋 Hi, I'm Vignesh
 
 - 👀 I'm interested in Full Stack Development and Python Programming.
 - 🌱 I'm currently learning Advanced React.js, Java and Pyton
