@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vignesh
 
-- 👀 I'm interested in Full Stack Development and Python Programming.
-- 🌱 I'm currently learning Advanced React.js, Java and Pyton
+- 👀 I'm interested in Python Full Stack Development Python Programming.
+- 🌱 I'm currently learning API development, Java and Pyton
 - 💞️ I'm looking to collaborate on Web Development and Python Projects
 - 📫 How to reach me: vigneshpillai123123@gmail.com | www.linkedin.com/in/viramakali
 - 😄 Pronouns: He/Him
